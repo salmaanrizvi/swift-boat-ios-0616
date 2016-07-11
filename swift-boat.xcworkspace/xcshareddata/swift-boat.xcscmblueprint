@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AECD4FA88C0D900A2C03BF6B9F7C4362299C3BCE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AECD4FA88C0D900A2C03BF6B9F7C4362299C3BCE" : 0,
+    "101F25E83F95081DC9182A8A4CDC0D519019991E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E476FE6E-206B-4040-A492-1E2EE216146B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AECD4FA88C0D900A2C03BF6B9F7C4362299C3BCE" : "swift-boat-ios-0616\/",
+    "101F25E83F95081DC9182A8A4CDC0D519019991E" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "swift-boat",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "swift-boat.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:salmaanrizvi\/swift-dictionaryMethods-readme-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "101F25E83F95081DC9182A8A4CDC0D519019991E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:salmaanrizvi\/swift-boat-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AECD4FA88C0D900A2C03BF6B9F7C4362299C3BCE"
+    }
+  ]
+}
